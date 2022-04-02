@@ -81,7 +81,11 @@ h3 {
     border-radius: 2px;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
-    -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    /*problem. podrska mozila moz-box-shadow,podrska chrome webkid-box-shadow
+    
+    -moz-box-shadow:inset 10px 1px 1px  rgba(0, 0, 0, 0.075);
+    
+    */
     background-color: #DFDFDF;
 
 }
